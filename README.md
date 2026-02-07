@@ -19,7 +19,6 @@ This project focuses on detecting fraudulent insurance claims using machine lear
 - Gradient Boosting
 - XGBoost
 - Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
 
 ## Requirements
 - numpy
