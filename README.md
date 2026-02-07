@@ -7,8 +7,9 @@ This project focuses on detecting fraudulent insurance claims using machine lear
 - Data Cleaning and Exploratory Data Analysis (EDA)
 - Feature Selection and Outlier Handling
 - Encoding and Preprocessing
-- Model Training and Comparison
-- Hyperparameter Tuning and Cross-Validation
+- Model Training 
+- Hyperparameter Tuning
+- Compare models
 - Evaluation using Accuracy, Recall, and F1-score
 
 ## Models Used
